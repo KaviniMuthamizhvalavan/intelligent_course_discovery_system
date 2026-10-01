@@ -1,5 +1,7 @@
 # Prior — University Course Finder
 
+Github link: https://github.com/KaviniMuthamizhvalavan/intelligent_course_discovery_system
+
 Prior turns a learning goal written in plain language ("I know Python and SQL. Help me move into machine learning.") into:
 
 1. up to five relevant courses from a 6,642-course Coursera catalog, each with an **Honest Advisor** explanation (why it helps, what to know first and where that prerequisite came from, what to watch out for);
